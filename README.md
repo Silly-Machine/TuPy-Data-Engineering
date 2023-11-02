@@ -1,7 +1,7 @@
 # Portuguese Hate Speech Dataset (TuPI)
 
 
-The Portuguese Hate Speech Dataset (TuPI) is a project that aims to develop models for identifying hate speech. It is formed by combining datasets annotated by Fortuna *et. al.*, Milk *et. al.*, Vargas *et. al.* in addition to 10 thousand unpublished annotated documents.
+The Portuguese Hate Speech Dataset (TuPI) is a project that aims to develop models for identifying hate speech. It is formed by combining datasets annotated by [Fortuna *et. al.*](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset) (2019), [Leite *et. al.*](https://github.com/JAugusto97/ToLD-Br) (2021), [Vargas *et. al.*](https://github.com/franciellevargas/HateBR) (2020) in addition to 10 thousand unpublished annotated documents collected in 2023.
 
 This repository is organized as follows:
 
