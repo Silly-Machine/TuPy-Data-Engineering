@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "tupi-portuguese-hate-speech-dataset"
+version = "0.1.0"
+description = ""
+authors = ["Felipe Oliveira <fp.ramos.oliveira@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+jupyter = "^1.0.0"
+pandas = "^2.1.2"
+seaborn = "^0.13.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
