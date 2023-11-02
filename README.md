@@ -17,4 +17,5 @@ root.
     └── README.md
 ```
 
+## Acknowledge
 The TuPi project is the result of the development of Felipe Oliveira's thesis and the work of several caloabores (annotators and developers) with support from the Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)) and the Alberto Luiz Coimbra Institute for Postgraduate Studies and Research in Engineering ([COPPE](https://coppe.ufrj.br/)).
