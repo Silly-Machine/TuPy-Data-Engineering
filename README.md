@@ -1,2 +1,2 @@
-# TuPi-Portuguese-Hate-Speech-Dataset
-Portuguese Hate Speech Dataset (TuPI)
+# Portuguese Hate Speech Dataset (TuPI)
+
