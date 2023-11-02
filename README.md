@@ -5,7 +5,7 @@ The Portuguese Hate Speech Dataset (TuPI) is a project that aims to develop mode
 
 This repository is organized as follows:
 
-```bash
+```sh
 root.
     ├── datasets 
     ├── figures
@@ -16,6 +16,24 @@ root.
     ├── LICENSE
     └── README.md
 ```
+
+## Quick start
+
+Run the following command
+
+```sh
+bash INIT.sh
+```
+
+Or install Miniconda 3 than type the following command order:
+
+```sh
+conda create -n tupi-env python=3.10
+conda activate tupi-env
+pip install poetry
+poetry install
+```
+
 
 ## Acknowledge
 The TuPi project is the result of the development of Felipe Oliveira's thesis and the work of several caloabores (annotators and developers) with support from the Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)) and the Alberto Luiz Coimbra Institute for Postgraduate Studies and Research in Engineering ([COPPE](https://coppe.ufrj.br/)).
