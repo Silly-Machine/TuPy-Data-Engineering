@@ -39,7 +39,8 @@ pip install poetry
 poetry install
 ```
 
-**NOTE**: In both cases it will be necessary to install the NLTK package modules separately.
+#### NOTE
+In both cases it will be necessary to install the NLTK package modules separately.
 
 
 ## Acknowledge
