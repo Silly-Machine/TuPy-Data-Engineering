@@ -1,6 +1,6 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset)
 [![GitHub issues](https://img.shields.io/github/issues/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset.svg)](https://img.shields.io/github/issues/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset.svg)
-![SourceForge Commit Count](https://img.shields.io/sourceforge/commit-count/Silly-Machine%2FTuPi-Portuguese-Hate-Speech-Dataset)
+![SourceForge Commit Count](https://img.shields.io/sourceforge/commit-count/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset/main)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
