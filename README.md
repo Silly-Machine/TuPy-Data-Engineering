@@ -1,8 +1,8 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset)
 [![GitHub issues](https://img.shields.io/github/issues/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset.svg)](https://img.shields.io/github/issues/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset.svg)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset/main)
-[![GitHub license](https://img.shields.io/badge/license-MIT-orange)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![GitHub license](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/license/mit/)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-orange.svg)](https://www.python.org/downloads/release/python-3100/)
 
 # Portuguese Hate Speech Dataset (TuPI)
 
