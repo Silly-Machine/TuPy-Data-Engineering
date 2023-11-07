@@ -1,5 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset.svg)](https://img.shields.io/github/issues/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset.svg)
+[![GitHub commits](https://img.shields.io/github/commit-activity/y//Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset)](https://github.com/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
