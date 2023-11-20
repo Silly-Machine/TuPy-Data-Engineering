@@ -6,7 +6,7 @@ authors = ["Felipe Oliveira <fp.ramos.oliveira@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.13"
+python = ">=3.10,<3.12"
 jupyter = "^1.0.0"
 pandas = "^2.1.2"
 seaborn = "^0.13.0"
