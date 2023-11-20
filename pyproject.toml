@@ -6,13 +6,16 @@ authors = ["Felipe Oliveira <fp.ramos.oliveira@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.13"
+python = ">=3.10,<3.12"
 jupyter = "^1.0.0"
 pandas = "^2.1.2"
 seaborn = "^0.13.0"
 scikit-learn = "^1.3.2"
 nltk = "^3.8.1"
 pytest = "^7.4.3"
+networkx = "^3.2.1"
+adjusttext = "^0.8"
+tensorflow = "^2.15.0"
 
 
 [build-system]

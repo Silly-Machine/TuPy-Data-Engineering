@@ -23,4 +23,8 @@ conda install -c conda-forge poetry
 echo "Running 'poetry install' inside 'tupi-env'..."
 poetry install
 
+# Use Poetry to run Python command to download NLTK files for Portuguese stopwords
+echo "Downloading NLTK files for Portuguese stopwords..."
+poetry run python -m nltk.downloader stopwords
+
 echo "Installation complete."
