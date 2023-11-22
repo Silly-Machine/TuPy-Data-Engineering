@@ -16,6 +16,10 @@ pytest = "^7.4.3"
 networkx = "^3.2.1"
 adjusttext = "^0.8"
 tensorflow = "^2.15.0"
+transformers = "^4.35.2"
+tensorflow-text = "^2.15.0"
+torch = "^2.1.1"
+gradio = "^4.5.0"
 
 
 [build-system]
