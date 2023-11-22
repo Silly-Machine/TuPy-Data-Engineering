@@ -1,0 +1,38 @@
+Text,Model,Classification Results,Binary Classification Metrics,output 2,flag,username,timestamp
+"'@user a contradição canhota em todas as áreas. até em atacar e defender ditadores seletivamente. nunca foi sobre ""o que"" , mas sobre ""quem"". egoísmo, inveja, ódio e maldade é tudo que tem em um ser contraditório desses.",BERTimbau large (HateBR),"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: right;"">
+      <th>Class</th>
+      <th>Probability</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Not offensive</td>
+      <td>0.000015</td>
+    </tr>
+    <tr>
+      <td>Offensive</td>
+      <td>0.999985</td>
+    </tr>
+  </tbody>
+</table>","<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: right;"">
+      <th>Accuracy</th>
+      <th>Precision</th>
+      <th>Recall</th>
+      <th>F1 Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+    </tr>
+  </tbody>
+</table>","This text is offensive.
+ 
+(Este texto é ofensivo.)",,,2023-11-22 13:53:18.430756
