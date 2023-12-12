@@ -41,4 +41,4 @@ poetry run python -m nltk.downloader stopwords
 ```
 
 ## Acknowledge
-The TuPi project is the result of the development of Felipe Oliveira's thesis and the work of several caloabores,special thanks to [Victoria Reis](https://github.com/victdreis). This project is financed by the Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)) and the Alberto Luiz Coimbra Institute for Postgraduate Studies and Research in Engineering ([COPPE](https://coppe.ufrj.br/)).
+The TuPi project is the result of the development of Felipe Oliveira's thesis and the work of several collaborators. This project is financed by the Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)) and the Alberto Luiz Coimbra Institute for Postgraduate Studies and Research in Engineering ([COPPE](https://coppe.ufrj.br/)).
