@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/license/mit/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-orange.svg)](https://www.python.org/downloads/release/python-3100/)
 
-# Portuguese Hate Speech Dataset (TuPI)
+# TuPy Data Engineering
 
 This repository contains the processes used to create the Portuguese hate speech dataset (TuPy), an annotated corpus designed to facilitate the development of advanced hate speech detection models using machine learning (ML) and natural language processing (NLP) techniques. TuPI is formed by combining datasets annotated by [Fortuna *et. al.*](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset) (2019), [Leite *et. al.*](https://github.com/JAugusto97/ToLD-Br) (2021), [Vargas *et. al.*](https://github.com/franciellevargas/HateBR) (2020) in addition to 10 thousand unpublished annotated documents collected in 2023.
 
